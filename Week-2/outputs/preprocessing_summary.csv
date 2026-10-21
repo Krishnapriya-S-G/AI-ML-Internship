@@ -1,0 +1,10 @@
+item,value
+original_rows,7043.0
+rows_after_duplicate_removal,7043.0
+training_rows,5634.0
+test_rows,1409.0
+original_feature_columns,21.0
+transformed_feature_columns,51.0
+training_missing_values_after_transform,0.0
+test_missing_values_after_transform,0.0
+target_churn_rate_overall,0.2654
