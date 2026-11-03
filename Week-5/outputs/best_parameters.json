@@ -1,0 +1,14 @@
+{
+    "best_search_method": "Randomized Search",
+    "best_roc_auc": 0.8411558035598958,
+    "grid_search_parameters": {
+        "classifier__C": 10,
+        "classifier__class_weight": null,
+        "classifier__solver": "liblinear"
+    },
+    "random_search_parameters": {
+        "classifier__solver": "lbfgs",
+        "classifier__class_weight": null,
+        "classifier__C": 10
+    }
+}
